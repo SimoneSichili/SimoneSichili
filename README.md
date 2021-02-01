@@ -19,7 +19,7 @@
 </div>
 
 <div style="margin-bottom: 20px">
-    <h3>Technologies</h3>
+    <h3>Technologies and Tools</h3>
     <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
