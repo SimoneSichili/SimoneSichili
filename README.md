@@ -9,7 +9,7 @@
     
 <hr>
 
-<div style="margin-bottom: 20px; font-size:50">
+<div style="margin-bottom: 20px">
     <h3>Languages</h3>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
@@ -24,15 +24,16 @@
     <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-REST API-3884FF?&style=for-the-badge"/>
     <br>
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=Laravel&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Carbon-990000?&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Blade-BE3939?&style=for-the-badge"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-REST API-3884FF?&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-NPM-CB3837?logo=NPM&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Composer-885630?logo=Composer&logoColor=white&style=for-the-badge"/>
     <br>
     <img src="https://img.shields.io/badge/-GitKraken-179287?logo=GitKraken&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
@@ -47,7 +48,7 @@
     <img src="https://img.shields.io/badge/-Adobe Illustrator-FF9A00?logo=Adobe Illustrator&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Adobe InDesign-FF3366?logo=Adobe InDesign&logoColor=white&style=for-the-badge"/>
     <br>
-    <img src="https://img.shields.io/badge/-Adobe Premiere Pro-7952B3?logo=Adobe Premiere Pro&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Adobe Premiere Pro-9999FF?logo=Adobe Premiere Pro&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Adobe After Effects-9999FF?logo=Adobe After Effects&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Adobe XD-FF61F6?logo=Adobe XD&logoColor=white&style=for-the-badge"/>
 </div>
