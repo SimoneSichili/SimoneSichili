@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/-GitKraken-179287?logo=GitKraken&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-XAMPP-FB7A24?logo=XAMPP&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=Visual-Studio-Code&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Atom-66595C?logo=Atom&logoColor=white&style=for-the-badge"/>
 </div>
 
