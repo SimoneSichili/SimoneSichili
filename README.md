@@ -44,13 +44,13 @@
 
 <div style="margin-bottom: 20px">
     <h3>Graphics Software</h3>
-    <img src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Adobe Illustrator-FF9A00?logo=Adobe Illustrator&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Adobe InDesign-FF3366?logo=Adobe InDesign&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?logo=Adobe-Photoshop&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Adobe Illustrator-FF9A00?logo=Adobe-Illustrator&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Adobe InDesign-FF3366?logo=Adobe-InDesign&logoColor=white&style=for-the-badge"/>
     <br>
-    <img src="https://img.shields.io/badge/-Adobe Premiere Pro-7952B3?logo=Adobe Premiere Pro&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Adobe After Effects-9999FF?logo=Adobe After Effects&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Adobe XD-FF61F6?logo=Adobe XD&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-Adobe Premiere Pro-7952B3?logo=Adobe-Premiere-Pro&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Adobe After Effects-9999FF?logo=Adobe-After-Effects&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Adobe XD-FF61F6?logo=Adobe-XD&logoColor=white&style=for-the-badge"/>
 </div>
 
 <div>
