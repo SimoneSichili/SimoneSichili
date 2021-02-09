@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javaScript&logoColor=222&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-SQL-4479A1?logo=&logoColor=white&style=for-the-badge"/>
 </div>
 
 <div style="margin-bottom: 20px">
