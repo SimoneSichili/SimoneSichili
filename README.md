@@ -1,6 +1,6 @@
 <div align=center>
     <h1 style="border-bottom: none; margin-bottom:0;">Hi 👋, I'm Simone
-      <br>Jr Full Stack Web Developer 💻
+      <br>Graphic Designer 💻
   </h1>
     <h3>How to reach me:</h3>
     <a href="https://www.linkedin.com/in/simonesichili/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
